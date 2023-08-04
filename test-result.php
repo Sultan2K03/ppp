@@ -65,9 +65,7 @@
           <div class="col-sm-12 col-lg-4 col-md-12">
             <div class="card mt-2">
               <div class="card-body">
-                <span class="card-title d-flex align-items-baseline">
-                  <h5 style="width:25px;">Q.</h5>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto adipisci repudiandae distinctio cum sunt, expedita illo accusantium doloremque dolorem incidunt, laborum magni minus ab. Inventore ea cu</span>
+                <span class="card-title d-flex align-items-baseline">Q. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto adipisci repudiandae distinctio cum sunt, expedita illo accusantium doloremque dolorem incidunt, laborum magni minus ab. Inventore ea cu</span>
                 <p class="card-text row">
                   <div class="col-12 bg-success d-flex" style="border-radius:5px;" >
                     <div class="radio" width="10%" style="padding:5px;">
@@ -116,6 +114,11 @@
                     </div>
                 </p>
               </div>
+            </div>
+            <div class="marks" style="margin-top:3rem;">
+              <h5 class="text-center bg-light"><b>Total Marks Obtained</b></h5>
+              <p class="text-center"><b>10/10</b><br>Remarks: Excellent </p>
+
             </div>
             <!-- <a href="test-result.php"><button class="btn btn-outline-success w-100" style="margin-top:2rem;">Submit</button></a> -->
           </div>

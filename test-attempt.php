@@ -65,32 +65,30 @@
           <div class="col-sm-12 col-lg-4 col-md-12">
             <div class="card">
               <div class="card-body">
-                <span class="card-title d-flex align-items-baseline">
-                  <h5 style="width:25px;">Q.</h5>
-                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto adipisci repudiandae distinctio cum sunt, expedita illo accusantium doloremque dolorem incidunt, laborum magni minus ab. Inventore ea cu</span>
+                <span class="card-title d-flex align-items-baseline">Q. Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi architecto adipisci repudiandae distinctio cum sunt, expedita illo accusantium doloremque dolorem incidunt, laborum magni minus ab. Inventore ea cu</span>
                 <p class="card-text row">
                   <div class="col-12">
                   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
                   <label class="form-check-label" for="exampleRadios1">
-                    answer 1
+                    Answer 1
                   </label>
                   </div>
                   <div class="col-12">
                   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
                   <label class="form-check-label" for="exampleRadios1">
-                    answer 2
+                    Answer 2
                   </label>
                   </div>
                   <div class="col-12">
                   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
                   <label class="form-check-label" for="exampleRadios1">
-                    answer 3
+                    Answer 3
                   </label>
                   </div>
                   <div class="col-12">
                   <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1">
                   <label class="form-check-label" for="exampleRadios1">
-                    answer 4
+                    Answer 4
                   </label>
                   </div>
                 </p>

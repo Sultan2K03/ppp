@@ -18,6 +18,10 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
     <link href="assets/css/style.css" rel="stylesheet"/>
     <link href="assets/css/dark-theme.css" rel="stylesheet"/>
+    
+     <!-- Font Awesome CDN -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">            
   </head>
   <body>
 
@@ -125,7 +129,7 @@
           <!--start features-->
             <div class="features-section">
             <div class="row row-cols-2 row-cols-md-4 g-3">
-              <a href="">
+              <a href="daily-practice.php">
                 <div class="col d-flex">
                   <div class="card rounded-3 w-100">
                     <div class="card-body">
@@ -145,7 +149,7 @@
                     <div class="card-body">
                       <div class="icon-wrapper text-center">
                         <div class="noti-box mb-1 mx-auto bg-purple">
-                          <i class="bi bi-credit-card"></i>
+                          <i class="bi bi-book-half"></i>
                         </div>
                         <p class="fw-bold mb-0 text-dark">Courses</p>
                       </div>
@@ -187,9 +191,9 @@
 
            <div class="py-2"></div>
 
-             <!--start courses-->
-               <div class="courses">
-                <h4 class="my-2 text-center fw-bold section-title">Courses</h4>
+             <!--start latest courses-->
+               <div class="latest courses">
+                <h4 class="my-2 text-center fw-bold section-title">Latest Courses</h4>
                 <div class="row row-cols-2 row-cols-md-4 g-3">
                   <div class="col d-flex">
                     <div class="card rounded-0 w-100 rounded-3 overflow-hidden">
@@ -242,7 +246,7 @@
 
                   </div>
                </div>
-          <!--end courses-->
+          <!--end latest courses-->
 
           <div class="py-2"></div>
 
@@ -262,7 +266,7 @@
                 </div> -->
                 <div class="review-text">
                   <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.</p>
-                  <a href=""><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
+                  <a href="#"><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
                 </div>
               </div>
               <div class="review-item p-3 border rounded-3 bg-light">
@@ -276,7 +280,7 @@
                </div> -->
                <div class="review-text">
                  <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.</p>
-                 <a href=""><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
+                 <a href="#"><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
                </div>
              </div>
              <div class="review-item p-3 border rounded-3 bg-light">
@@ -290,7 +294,7 @@
              </div> -->
              <div class="review-text">
                <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some.</p>
-               <a href=""><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
+               <a href="#"><p class="text-end mb-0 reviw-date">Click here to attempt</p></a>
              </div>
             </div>
             </div>
@@ -433,15 +437,15 @@
                 <!-- <div class="name">Home</div> -->
               </div>
             </a>
-            <a class="nav-link" href="category-list.php">
+            <a class="nav-link" href="courses.php">
               <div class="d-flex flex-column align-items-center">
-                <div class="icon"><i class="bi bi-grid"></i></div>
-                <!-- <div class="name">Category</div> -->
+                <div class="icon"><i class="bi bi-book"></i></div>
+                <!-- <div class="name">Courses</div> -->
               </div>
             </a>
             <a class="nav-link" href="current-affairs.php">
               <div class="d-flex flex-column align-items-center">
-                <div class="icon"><i class="bi bi-newspaper"></i></div>
+                <div class="icon"><i class="fa-regular fa-newspaper"></i></div>
                 <!-- <div class="name">Current Affairs</div> -->
               </div>
             </a>
@@ -455,7 +459,7 @@
           </div>
         </nav>
        </footer>
-       <!--end to footer-->
+      <!--end to footer-->
 
 
      <!--start sidenav-->

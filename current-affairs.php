@@ -40,6 +40,9 @@
     />
     <link href="assets/css/style.css" rel="stylesheet" />
     <link href="assets/css/dark-theme.css" rel="stylesheet" />
+
+    <!-- Font Awesome CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
   <body>
 
@@ -211,39 +214,39 @@
       </div>
       <!--end to page content-->
 
-      <!--start to footer-->
-      <!-- <footer class="page-footer fixed-bottom border-top d-flex align-items-center">
-      <nav class="navbar navbar-expand p-0 flex-grow-1">
-        <div class="navbar-nav align-items-center justify-content-between w-100">
-          <a class="nav-link" href="home.php">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-house"></i></div>
-              <div class="name">Home</div>
-            </div>
-          </a>
-          <a class="nav-link" href="category-list.html">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-grid-fill"></i></div>
-              <div class="name">Category</div>
-            </div>
-          </a>
-          <a class="nav-link" href="contact-us.php">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-question-circle"></i></div>
-              <div class="name">Contact</div>
-            </div>
-          </a>
-          <a class="nav-link" href="profile.php">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-person"></i></div>
-              <div class="name">Profile</div>
-            </div>
-          </a>
+     <!--start to footer-->
+     <footer class="page-footer fixed-bottom border-top d-flex align-items-center">
+        <nav class="navbar navbar-expand p-0 flex-grow-1">
+          <div class="navbar-nav align-items-center justify-content-between w-100">
+            <a class="nav-link" href="home.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-house"></i></div>
+                <!-- <div class="name">Home</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="courses.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-book"></i></div>
+                <!-- <div class="name">courses</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="fa-solid fa-newspaper"></i></div>
+                <!-- <div class="name">Current Affairs</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="profile.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-person"></i></div>
+                <!-- <div class="name">Profile</div> -->
+              </div>
+            </a>
 
-        </div>
-      </nav>
-     </footer> -->
-      <!--end to footer-->
+          </div>
+        </nav>
+       </footer>
+       <!--end to footer-->
 
       <!--start sidenav-->
       <!-- <div class="sidenav">

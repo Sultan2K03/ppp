@@ -77,7 +77,7 @@
                   <span><b>Quantum<br>Mechanics</b></span><br>
                   <p style="font-size:.6rem;">From : 4:00 PM <br>To : 5:00 PM</p>
                 </div>
-                <p><small style="display:flex; width:80%;height:2rem; overflow:auto;">Quantum mechanics is the branch of physics that deals with the behaviour of matter and light on a subatomic and atomic level. It attempts to explain the properties of atoms and molecules and their fundamental particles like protons, neutrons, electrons, gluons, and quarks.</small></p>
+                <p><small style="display:flex; width:80%;">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</small></p>
                 <button class="btn btn-primary w-100 p-0" style="border-radius:100px;"><small>Join Now</small></button>
               </div>
             </div>

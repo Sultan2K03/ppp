@@ -19,18 +19,12 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
     <link href="assets/css/style.css" rel="stylesheet"/>
     <link href="assets/css/dark-theme.css" rel="stylesheet"/>
+
+     <!-- Font Awesome CDN -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   </head>
   <body>
 
-    <!--page loader-->
-    <div class="loader-wrapper">
-      <div class="d-flex justify-content-center align-items-center position-absolute top-50 start-50 translate-middle">
-        <div class="spinner-border text-white" role="status">
-          <span class="visually-hidden">Loading...</span>
-        </div>
-      </div>
-    </div>
-   <!--end loader-->
 
    <!--start wrapper-->
     <div class="wrapper">
@@ -163,39 +157,39 @@
      <!--end to page content-->
 
 
-    <!--start to footer-->
-    <!-- <footer class="page-footer fixed-bottom border-top d-flex align-items-center">
-      <nav class="navbar navbar-expand p-0 flex-grow-1">
-        <div class="navbar-nav align-items-center justify-content-between w-100">
-          <a class="nav-link" href="home.html">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-house"></i></div>
-              <div class="name">Home</div>
-            </div>
-          </a>
-          <a class="nav-link" href="category-list.html">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-grid"></i></div>
-              <div class="name">Category</div>
-            </div>
-          </a>
-          <a class="nav-link" href="javascript:;">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-person-fill"></i></div>
-              <div class="name">Profile</div>
-            </div>
-          </a>
-          <a class="nav-link" href="contact-us.html">
-            <div class="d-flex flex-column align-items-center">
-              <div class="icon"><i class="bi bi-question-circle"></i></div>
-              <div class="name">Contact</div>
-            </div>
-          </a>
+   <!--start to footer-->
+   <footer class="page-footer fixed-bottom border-top d-flex align-items-center">
+        <nav class="navbar navbar-expand p-0 flex-grow-1">
+          <div class="navbar-nav align-items-center justify-content-between w-100">
+            <a class="nav-link" href="home.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-house"></i></div>
+                <!-- <div class="name">Home</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="courses.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-book"></i></div>
+                <!-- <div class="name">Courses</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="current-affairs.php">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="fa-regular fa-newspaper"></i></div>
+                <!-- <div class="name">Current Affairs</div> -->
+              </div>
+            </a>
+            <a class="nav-link" href="">
+              <div class="d-flex flex-column align-items-center">
+                <div class="icon"><i class="bi bi-person-fill"></i></div>
+                <!-- <div class="name">Profile</div> -->
+              </div>
+            </a>
 
-        </div>
-      </nav>
-     </footer> -->
-     <!--end to footer-->
+          </div>
+        </nav>
+       </footer>
+       <!--end to footer-->
 
 
 
